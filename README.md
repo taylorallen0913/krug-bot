@@ -1,4 +1,4 @@
-![alternate text](https://github.com/taylorallen0913/krug-bot/blob/master/KrugBotLogo.png)
+![](https://github.com/taylorallen0913/krug-bot/blob/master/KrugBotLogo.png =100x100)
 
 # KrugBot
 
