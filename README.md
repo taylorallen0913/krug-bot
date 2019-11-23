@@ -2,6 +2,11 @@
 
 KrugBot is a discord bot that aims to provide easy access to League Of Legends statistics. This is done by fetching data from the RiotAPI and outputting the results to the user, in an easy to read, simplistic way.
 
+## To-Do List
+* [ ]  Make API key and discord token a global .env variable
+* [ ]  Create !help command
+* [ ]  Implement database and log summoner name to user; use mongodb for backend
+
 ## Command List
 
 Search summoner by name
@@ -58,12 +63,15 @@ node index.js
 ```
 To stop the bot, enter this keystroke
 ```
-CTRL+C
+CTRL + C
 ```
 
 ## Built With
 
-* [Node.js](https://nodejs.org/en/docs/) - Javascript Server Environment
+* [npm](https://www.npmjs.com/) - Javascript package installer
+* [Node.js](https://nodejs.org/en/docs/) - Javascript server environment
+* [Discord.js](https://discord.js.org/#/) - Javascript library for the Discord API
+* [Requst](https://www.npmjs.com/package/request) - Javascript library for fetching data from APIs
 
 ## Contributing
 
