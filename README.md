@@ -1,3 +1,5 @@
+![alternate text](https://github.com/taylorallen0913/krug-bot/blob/master/KrugBotLogo.png)
+
 # KrugBot
 
 KrugBot is a discord bot that aims to provide easy access to League Of Legends statistics. This is done by fetching data from the RiotAPI and outputting the results to the user, in an easy to read, simplistic way.
